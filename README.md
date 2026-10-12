@@ -1,47 +1,28 @@
-# 🤖 AI Systems Research and Engineering
+# AI Systems Research & Engineering
 
-> I build experimental AI systems focused on persistent cognition, autonomous agents, long-term memory, and adaptive behavior.
+I develop experimental AI systems focused on **autonomous cognition, persistent memory, adaptive intelligence, and self-improvement.**
 
-My research is dedicated to how fascinating AI models can think on their own and develop goals based on their memory. My research pertains to how AI models capable of preception can create their own ideas.
+My research explores how AI can move beyond traditional language models to independently form goals, learn from experience, develop new capabilities, and evolve over time.
 
----
+## Research Interests
 
-## 🧠 Current Areas of Exploration
+- Autonomous AI Agents & Cognitive Architectures
+- Long-Term Memory & Continual Learning
+- Independent Cognition & Decision-Making
+- Self-Directed Goals & Adaptive Behavior
+- Experience-Driven Learning & Generalization
+- Recursive Self-Improvement
+- Artificial General Intelligence (AGI)
+- Emergent Intelligence & Behavior
+- Autonomous Scientific Discovery
+- Model-Independent AI Systems
 
-- 🤖 Persistent, autonomous agents
+## Current Project
 
-- 🧠 Long-term memory & memory consolidation
+### ARIA (formerly Heidi)
 
-- 💾 Episodic, Semantic, and Working Memory Architectures
+An experimental AI architecture exploring **persistent identity, autonomous decision-making, evolving memory, self-directed goals, and experience-driven adaptation.**
 
-- ⚙️ What an AI thinks when humans aren't around
+ARIA investigates how independent cognitive mechanisms can support increasingly capable and self-improving artificial intelligence.
 
-- 🪞 Autonomous cognition among users' actions
-
-- 🎯 Goal creation, prioritization, lifecycle management
-
-- 🔄 Agent reflection and result-based learning
-
-- 🛠️ Recursive self-improvement & controlled self-improvement
-
-- 🌱 Artificial General Intelligence
-
-- 🌐 Emergent behavior in persistent systems
-
-- 🔬 Using AI to find new scientific knowledge
-
-- 🧩 Thinking structures that are not tied to specific models
-
----
-
-## 🚀 Current Projects
-
-### 🧠 ARIA/Heidi
-
-A robust autonomous AI architecture designed to preserve identity, memory, goals, beliefs, and cognitive consistency over multiple interactions that transcend one conversation at a time.
-
-Important areas of research include memory origins, autonomous cognition, world modeling, curiosity algorithms, reflection processes, goal management, and architecture-level self-improvement.
----
-
-
-OTHER PROJECTS COMING SOON. . . .
+**Current Focus:** Native decision-making, consequence-based learning, and persistent behavioral adaptation.
